@@ -1,5 +1,7 @@
 ## Exiivy
 
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fexiivy98%2Fexiivy98?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
 Web Engineer specializing in frontend development with expertise in React, Next.js, and 3D web technologies. Experienced in building scalable services, CI/CD pipelines, and ML-integrated products.
 
 Currently working on 3D Gaussian Splatting Viewer Services.
