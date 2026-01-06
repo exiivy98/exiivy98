@@ -49,5 +49,16 @@ AI/ML
 - Established frontend optimization system for large-scale traffic handling
 - Improved mobile web service and developed, launched, and managed React Native-based mobile application
 - Developed and launched PC Web service for fashion platform
+- Rebuilt internal admin system for fashion platform service and developed admin system for partner brands
+
+---
+
+### Open Source Projects
+
+**[inline-i18n-multi](https://github.com/exiivy98/inline-i18n-multi)** · [npm](https://www.npmjs.com/package/inline-i18n-multi)  
+Inline i18n library for JavaScript/TypeScript. Write translations directly in code instead of using key-based JSON files. Features build-time optimization with Babel/SWC plugins, CLI tools for validation and coverage reports, and full support for React/Next.js with TypeScript.
+
+**[firestore-batch-updater](https://github.com/exiivy98/firestore-batch-updater)** · [npm](https://www.npmjs.com/package/firestore-batch-updater)  
+Batch update utility for Firebase Firestore with query-based filtering. Supports preview before updates, progress tracking, and handles unlimited documents using Firebase Admin SDK's BulkWriter. Includes batch create/upsert operations and detailed operation logging.
 
 ---
