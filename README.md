@@ -55,11 +55,11 @@ AI/ML
 
 ### Open Source Projects
 
-**[inline-i18n-multi](https://github.com/exiivy98/inline-i18n-multi)** [![npm version](https://img.shields.io/npm/v/inline-i18n-multi.svg)](https://www.npmjs.com/package/inline-i18n-multi) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+**[inline-i18n-multi](https://github.com/exiivy98/inline-i18n-multi)** [![npm version](https://img.shields.io/npm/v/inline-i18n-multi.svg)](https://www.npmjs.com/package/inline-i18n-multi) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![npm downloads](https://img.shields.io/npm/dm/inline-i18n-multi.svg)](https://www.npmjs.com/package/inline-i18n-multi)
 
 Inline i18n library for JavaScript/TypeScript. Write translations directly in code instead of using key-based JSON files. Features build-time optimization with Babel/SWC plugins, CLI tools for validation and coverage reports, and full support for React/Next.js with TypeScript.
 
-**[firestore-batch-updater](https://github.com/exiivy98/firestore-batch-updater)** [![npm version](https://img.shields.io/npm/v/firestore-batch-updater.svg)](https://www.npmjs.com/package/firestore-batch-updater) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+**[firestore-batch-updater](https://github.com/exiivy98/firestore-batch-updater)** [![npm version](https://img.shields.io/npm/v/firestore-batch-updater.svg)](https://www.npmjs.com/package/firestore-batch-updater) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![npm downloads](https://img.shields.io/npm/dm/inline-i18n-multi.svg)](https://www.npmjs.com/package/firestore-batch-updater)
 
 Batch update utility for Firebase Firestore with query-based filtering. Supports preview before updates, progress tracking, and handles unlimited documents using Firebase Admin SDK's BulkWriter. Includes batch create/upsert operations and detailed operation logging.
 
